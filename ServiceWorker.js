@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WeddingMarch-1.0";
 const contentToCache = [
-    "Build/Export.loader.js",
-    "Build/Export.framework.js.unityweb",
-    "Build/Export.data.unityweb",
-    "Build/Export.wasm.unityweb",
+    "Build/pages-webgl-wedding.loader.js",
+    "Build/pages-webgl-wedding.framework.js.unityweb",
+    "Build/pages-webgl-wedding.data.unityweb",
+    "Build/pages-webgl-wedding.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
