@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-WeddingMarch-1.0";
+const cacheName = "DefaultCompany-WeddingMarch-1.1";
 const contentToCache = [
     "Build/pages-webgl-wedding.loader.js",
     "Build/pages-webgl-wedding.framework.js.unityweb",
